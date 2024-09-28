@@ -6,6 +6,5 @@ public class Start {
         System.out.println("AAA");
         System.out.println("hot-fix");
         System.out.println("master");
-        System.out.println("hot-fix1");
     }
 }
